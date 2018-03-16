@@ -27,7 +27,7 @@ Requirements
 -   Shell terminal or Python IDE
 -   bs4 library, installed using pip install bs4
 -   urllib.request library, pre-installed by python
--   An hearty interest in profit
+-   A hearty interest in profit
 
 Desired Outcomes
 ================
