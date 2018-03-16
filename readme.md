@@ -48,4 +48,5 @@ Tasks
 ### Choto Stretch Goals
 -   find out how to print *just* the price, without the surrounding tags.
 -   Have your code output the value it finds to a new line in a .txt file.
--   Move the webscraping out of the function, and use a cronjob to automate running the function once a day. This should be done in conjunction with stretch goal #2.
+-   Move the webscraping out of the function, and use a cronjob to automate running the function once a day
+-   Add a portion to your code that will write the date & time next to each price
