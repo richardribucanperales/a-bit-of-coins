@@ -36,5 +36,3 @@ def scrape_for_bitcoin():
   logs.write(enter)
   logs.close()
 scrape_for_bitcoin()
-
-#made by richard#
